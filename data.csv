@@ -1,0 +1,8 @@
+ip,username,password,testData1,testData2,template
+192.168.3.1,kgrace,Kenneth97$,Line1-1,Line2-1,template.j2
+192.168.3.2,kgrace,Kenneth97$,Line1-2,Line2-2,template2.j2
+192.168.3.93,default,default,Line1-3,Line2-3,non-exist.j2
+192.168.3.94,admin,default,Line1-4,Line2-4,default
+192.168.254.2,default,Dyntek1@2,Line1-5,Line2-5,default
+192.168.3.3,admin,Dyntek1@3,Line1-6,Line2-6,default
+192.168.3.4,admin,Dyntek1@3,Line1-7,Line2-7,default
